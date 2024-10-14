@@ -7,7 +7,7 @@
 
 ![Seraphin GitHub stats](https://github-readme-stats.vercel.app/api?username=KawanSerafim&show_icons=true&theme=tokyonight)
 
-### Tecnologias que eu uso no meu dia
+### Tecnologias em que trabalho:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
