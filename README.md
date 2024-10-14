@@ -2,11 +2,8 @@
 
 ### Meus Contatos 📱
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kawan-serafim)<div style="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    kawanserafimdesouza@gmail.com
-</div><br/>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kawan-serafim)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](www.gmail.com/kawanserafimdesouza@gmail.com)
 ![Seraphin GitHub stats](https://github-readme-stats.vercel.app/api?username=KawanSerafim&show_icons=true&theme=tokyonight)
 
 ### Tecnologias que eu uso no meu dia
