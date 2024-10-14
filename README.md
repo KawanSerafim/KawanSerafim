@@ -5,8 +5,6 @@
 
 ![Seraphin GitHub stats](https://github-readme-stats.vercel.app/api?username=KawanSerafim&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawanSerafim&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -18,5 +16,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawanSerafim&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 Estudante de Análise e Desenvolvimento de Sistemas em desenvolvimento.
