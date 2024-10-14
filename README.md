@@ -1,7 +1,10 @@
 ### Olá! Eu sou o Kawan Serafim 🙋🏽‍♂️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kawan-serafim)
-[![Gmail](    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kawanserafimdesouza@gmail.com)
+<div style="display: inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    kawanserafimdesouza@gmail.com
+</div><br/>
 
 ![Seraphin GitHub stats](https://github-readme-stats.vercel.app/api?username=KawanSerafim&show_icons=true&theme=tokyonight)
 
@@ -17,4 +20,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawanSerafim&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawanSerafim&layout=compact)
