@@ -20,19 +20,19 @@
 <table>
     <tr>
         <td align="center" width="100">
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java"/>
+            <img title="Java" src="https://techstack-generator.vercel.app/java-icon.svg" alt="java"/>
         </td>
         <td align="center" width="100">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql">
+            <img title="MySQL" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql">
         </td>
         <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver">
+            <img title="SQLServer" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver">
         </td>
         <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5">
+            <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5">
         </td>
         <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3">
+            <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3">
         </td>
     </tr>
 </table>
@@ -42,28 +42,28 @@
 <table>
     <tr>
         <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring">
+            <img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring">
         </td>
         <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="gradle">
+            <img title="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="gradle">
         </td>
         <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven">
+            <img title="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven">
         </td>
         <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git">
+            <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git">
         </td>
         <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode">
+            <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode">
         </td>
         <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux">
+            <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux">
         </td>
         <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian">
+            <img title="Debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian">
         </td>
         <td align="center" width="100">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows">
+            <img title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows">
         </td>
     </tr>
 </table>
