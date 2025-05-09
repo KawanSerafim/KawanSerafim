@@ -8,9 +8,14 @@
 
 *Meu nome é Kawan Serafim de Souza, tenho 20 anos e sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo (FATEC) – Zona Leste. Atualmente, tenho maior afinidade com o desenvolvimento back-end, com foco principal na linguagem Java. Estou em processo de expansão das minhas competências técnicas, com planos de aprofundar meus conhecimentos em C# e Python.*
 
+## Redes
+
+[![linkedin](https://img.icons8.com/color/60/linkedin.png)](https://www.linkedin.com/in/kawan-serafim/)
+[![gmail](https://img.icons8.com/color/60/gmail-new.png)](mailto:kawanserafimdesouza@gmail.com)
+
 ---
 
-### 💻 Linguagens:
+## 💻 Linguagens:
 
 <table>
     <tr>
@@ -32,7 +37,7 @@
     </tr>
 </table>
 
-### 💻 Ferramentas:
+## 💻 Ferramentas:
 
 <table>
     <tr>
@@ -66,7 +71,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
     <img
