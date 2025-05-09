@@ -113,26 +113,29 @@
     </tr>
 </table>
 
-<br/>
-<br/>
-
 ## 📊 Estatísticas
 
 [![Kawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KawanSerafim&show_icons=true&theme=radical&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawanSerafim&theme=radical&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-
 ---
 
 ## 📚 Repositórios: Faculdade FATEC ZL
 
-- [💡] Lógica de Programação em Java: [LP-Java](https://github.com/KawanSerafim/LP-Java)
-- [💻] Sistemas Operacionais Windows+Linux: [Sistemas-Operacionais](https://github.com/KawanSerafim/Sistemas-Operacionais)
-- [📐] Estrutura de Dados em Java: [Estrutura-Dados-Java](https://github.com/KawanSerafim/Estrutura-Dados-Java)
-- [🧰] Programação Orientada a Objetos em Java: [POO-Java](https://github.com/KawanSerafim/POO-Java)
-- [🎲] Banco de Dados em SQL: [Banco-Dados-SQL](https://github.com/KawanSerafim/Banco-Dados-SQL)
+<br/>
+
+| Descrição | Repositório |
+| -------- | ----------- |
+| [💡] Lógica de Programação em Java | [[LP-Java](https://github.com/KawanSerafim/LP-Java)] |
+| [💻] Sistemas Operacionais Windows+Linux | [[Sistemas-Operacionais](https://github.com/KawanSerafim/Sistemas-Operacionais)] |
+| [📐] Estrutura de Dados em Java | [[Estrutura-Dados-Java](https://github.com/KawanSerafim/Estrutura-Dados-Java)] |
+| [🧰] Programação Orientada a Objetos em Java | [[POO-Java](https://github.com/KawanSerafim/POO-Java)] |
+| [🎲] Banco de Dados em SQL | [[Banco-Dados-SQL](https://github.com/KawanSerafim/Banco-Dados-SQL)] |
 
 ## 🚀 Repositórios: Desafios de Empresas
 
-- [🤖] Chat Bot temático com a equipe FURIA CS: [Chat-Bot-FURIA](https://github.com/KawanSerafim/Chat-Bot-FURIA)
+<br/>
+
+| Descrição | Repositório |
+| -------- | ----------- |
+| [🤖] Chat Bot temático com a equipe FURIA CS | [[Chat-Bot-FURIA](https://github.com/KawanSerafim/Chat-Bot-FURIA)] |
