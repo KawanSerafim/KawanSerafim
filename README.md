@@ -35,6 +35,23 @@
             <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3">
         </td>
     </tr>
+    <tr>
+        <td align="center">
+            <p>Java</p>
+        </td>
+        <td align="center">
+            <p>MySQL</p>
+        </td>
+        <td align="center">
+            <p>SQLServer</p>
+        </td>
+        <td align="center">
+            <p>HTML5</p>
+        </td>
+        <td align="center">
+            <p>CSS3</p>
+        </td>
+    </tr>
 </table>
 
 ## 💻 Ferramentas:
@@ -64,6 +81,32 @@
         </td>
         <td align="center" width="100">
             <img title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows">
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <p>Spring</p>
+        </td>
+        <td align="center">
+            <p>Gradle</p>
+        </td>
+        <td align="center">
+            <p>Maven</p>
+        </td>
+        <td align="center">
+            <p>Git</p>
+        </td>
+        <td align="center">
+            <p>VSCode</p>
+        </td>
+        <td align="center">
+            <p>Linux</p>
+        </td>
+        <td align="center">
+            <p>Debian</p>
+        </td>
+        <td align="center">
+            <p>Windows</p>
         </td>
     </tr>
 </table>
