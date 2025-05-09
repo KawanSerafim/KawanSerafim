@@ -1,6 +1,6 @@
-<p>
+<div>
     <h1 align="center">🧑‍💻 Kawan Serafim - Desenvolvedor Back-End</h1>
-</p>
+</div>
 
 <div align="center">
     <img width="100%" alt="homegif" src="https://github.com/KawanSerafim/teste/blob/main/211786.gif"/>
@@ -118,17 +118,35 @@
 
 ## 📊 Estatísticas
 
-<p>
-    <img
-        align="left"
-        alt="GitHub Stats"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=KawanSerafim&show_icons=true&theme=radical&locale=pt-br"
-    />
-    <img
-        align="left"
-        alt="Tools Stats"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanSerafim&theme=radical&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
-</p>
+<div>
+    <p>
+        <img
+            align="left"
+            alt="GitHub Stats"
+            height="200"
+            src="https://github-readme-stats.vercel.app/api?username=KawanSerafim&show_icons=true&theme=radical&locale=pt-br"
+        />
+        <img
+            align="left"
+            alt="Tools Stats"
+            height="200"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanSerafim&theme=radical&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9"
+        />
+    </p>
+</div>
+
+<br><br><br><br><br><br><br><br><br>
+
+---
+
+## 📚 Repositórios: Faculdade FATEC ZL
+
+- [💡] Lógica de Programação em Java: [LP-Java](https://github.com/KawanSerafim/LP-Java)
+- [💻] Sistemas Operacionais Windows+Linux: [Sistemas-Operacionais](https://github.com/KawanSerafim/Sistemas-Operacionais)
+- [📐] Estrutura de Dados em Java: [Estrutura-Dados-Java](https://github.com/KawanSerafim/Estrutura-Dados-Java)
+- [🧰] Programação Orientada a Objetos em Java: [POO-Java](https://github.com/KawanSerafim/POO-Java)
+- [🎲] Banco de Dados em SQL: [Banco-Dados-SQL](https://github.com/KawanSerafim/Banco-Dados-SQL)
+
+## 🚀 Repositórios: Desafios de Empresas
+
+- [🤖] Chat Bot temático com a equipe FURIA CS: [Chat-Bot-FURIA](https://github.com/KawanSerafim/Chat-Bot-FURIA)
