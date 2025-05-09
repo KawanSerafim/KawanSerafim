@@ -118,25 +118,9 @@
 
 ## 📊 Estatísticas
 
-<div>
-    <p>
-        <img
-            align="left"
-            alt="GitHub Stats"
-            height="200"
-            src="https://github-readme-stats.vercel.app/api?username=KawanSerafim&show_icons=true&theme=radical&locale=pt-br"
-        />
-        <img
-            align="left"
-            alt="Tools Stats"
-            height="200"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanSerafim&theme=radical&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9"
-        />
-    </p>
-</div>
+[![Kawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KawanSerafim&show_icons=true&theme=radical&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawanSerafim&theme=radical&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-<br/>
 <br/>
 
 ---
