@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-    <img width="100%" alt="homegif" src="https://github.com/KawanSerafim/teste/blob/main/d4f08b4458e8da0e6c5b4499d4b65af8.gif"/>
+    <img width="100%" alt="homegif" src="https://github.com/KawanSerafim/teste/blob/main/211786.gif"/>
 </div>
 
 *Meu nome é Kawan Serafim de Souza, tenho 20 anos e sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo (FATEC) – Zona Leste. Atualmente, tenho maior afinidade com o desenvolvimento back-end, com foco principal na linguagem Java. Estou em processo de expansão das minhas competências técnicas, com planos de aprofundar meus conhecimentos em C# e Python.*
