@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img width="100%" alt="homegif" src="https://github.com/KawanSerafim/teste/blob/main/211786.gif"/>
+    <img width="100%" alt="homegif" src="https://github.com/KawanSerafim/KawanSerafim/blob/main/images/211786.gif"/>
 </div>
 
 ---
