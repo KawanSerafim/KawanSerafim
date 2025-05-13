@@ -22,19 +22,19 @@
 <table>
     <tr>
         <td align="center" width="100">
-            <img title="Java" src="https://techstack-generator.vercel.app/java-icon.svg" alt="java"/>
+            <img title="Java" src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="60"/>
         </td>
         <td align="center" width="100">
-            <img title="MySQL" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql">
+            <img title="MySQL" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="60"/>
         </td>
         <td align="center" width="100">
-            <img title="SQLServer" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver">
+            <img title="SQLServer" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="60"/>
         </td>
         <td align="center" width="100">
-            <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5">
+            <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="60"/>
         </td>
         <td align="center" width="100">
-            <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3">
+            <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="60"/>
         </td>
     </tr>
     <tr>
@@ -61,28 +61,28 @@
 <table>
     <tr>
         <td align="center" width="100">
-            <img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring">
+            <img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="60"/>
         </td>
         <td align="center" width="100">
-            <img title="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="gradle">
+            <img title="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="gradle" width="60"/>
         </td>
         <td align="center" width="100">
-            <img title="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven">
+            <img title="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven" width="60"/>
         </td>
         <td align="center" width="100">
-            <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git">
+            <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="60"/>
         </td>
         <td align="center" width="100">
-            <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode">
+            <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="60"/>
         </td>
         <td align="center" width="100">
-            <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux">
+            <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="60"/>
         </td>
         <td align="center" width="100">
-            <img title="Debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian">
+            <img title="Debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="60"/>
         </td>
         <td align="center" width="100">
-            <img title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows">
+            <img title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="60"/>
         </td>
     </tr>
     <tr>
@@ -132,7 +132,7 @@
 | [🧰] Programação Orientada a Objetos em Java | [[POO-Java](https://github.com/KawanSerafim/POO-Java)] |
 | [🎲] Banco de Dados em SQL | [[Banco-Dados-SQL](https://github.com/KawanSerafim/Banco-Dados-SQL)] |
 
-## 🚀 Repositórios: Desafios de Empresas
+## 🚀 Repositórios: Desafios de Empresas (🚧 em processo de atualização! 🚧)
 
 <br/>
 
