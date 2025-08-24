@@ -120,7 +120,8 @@
 
 ---
 
-Nota: Se você é um(a) recrutador(a), devo comunicar que sim, tenho outros repositórios. Acontece que os privei, desejando reorganizar meu github, também refazendo cada código. Levará um certo tempo para que isso esteja pronto.
+> [!NOTE]
+> Se você é um(a) recrutador(a), devo comunicar que sim, tenho outros repositórios. Acontece que os privei, desejando reorganizar meu github, também refazendo cada código. Levará um certo tempo para que isso esteja pronto.
 
 ## 📚 Repositórios: Faculdade FATEC ZL (🚧 em processo de atualização! 🚧)
 
