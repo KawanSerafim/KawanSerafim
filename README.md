@@ -25,6 +25,9 @@
             <img title="Java" src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="60"/>
         </td>
         <td align="center" width="100">
+            <img title="Csharp" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="java" width="60"/>
+        </td>
+        <td align="center" width="100">
             <img title="MySQL" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="60"/>
         </td>
         <td align="center" width="100">
@@ -40,6 +43,9 @@
     <tr>
         <td align="center">
             <p>Java</p>
+        </td>
+        <td align="center">
+            <p>C#</p>
         </td>
         <td align="center">
             <p>MySQL</p>
