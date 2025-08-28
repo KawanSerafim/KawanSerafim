@@ -129,6 +129,24 @@
 > [!NOTE]
 > Se você é um(a) recrutador(a), devo comunicar que sim, tenho outros repositórios. Acontece que os privei, desejando reorganizar meu github, também refazendo cada código. Levará um certo tempo para que isso esteja pronto.
 
+## 🚀 Repositórios: Desafios de Empresas (🚧 em processo de atualização! 🚧)
+
+<br/>
+
+| Descrição | Repositório |
+| -------- | ----------- |
+| [🤖] Chat Bot temático com a equipe FURIA CS | [[Chat-Bot-FURIA](https://github.com/KawanSerafim/Chat-Bot-FURIA)] |
+
+<br/>
+
+## 📊 Repositórios: BOOTCAMPS da plataforma DIO
+
+| Descrição | Repositório |
+| -------- | ----------- |
+| [🟠] Avanade - Back-end com .NET e IA | [[BOOTCAMP-Avanade-BackEnd-dotNET-IA](https://github.com/KawanSerafim/BOOTCAMP-Avanade-BackEnd-dotNET-IA)] |
+
+<br/>
+
 ## 📚 Repositórios: Faculdade FATEC ZL (🚧 em processo de atualização! 🚧)
 
 <br/>
@@ -140,11 +158,3 @@
 | [📐] Estrutura de Dados em Java | [[Estrutura-Dados-Java](https://github.com/KawanSerafim/Estrutura-Dados-Java)] |
 | [🧰] Programação Orientada a Objetos em Java | [[POO-Java](https://github.com/KawanSerafim/POO-Java)] |
 | [🎲] Banco de Dados em SQL | [[Banco-Dados-SQL](https://github.com/KawanSerafim/Banco-Dados-SQL)] |
-
-## 🚀 Repositórios: Desafios de Empresas (🚧 em processo de atualização! 🚧)
-
-<br/>
-
-| Descrição | Repositório |
-| -------- | ----------- |
-| [🤖] Chat Bot temático com a equipe FURIA CS | [[Chat-Bot-FURIA](https://github.com/KawanSerafim/Chat-Bot-FURIA)] |
