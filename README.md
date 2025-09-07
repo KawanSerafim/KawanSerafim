@@ -139,6 +139,14 @@
 
 <br/>
 
+## 🎓 Repositório: Trabalho de Graduação
+
+| Descrição | Repositório |
+| -------- | ----------- |
+| [🗂️] TG Manager System | [[TG-Manager-System](https://github.com/KawanSerafim/TG-Manager-System)] |
+
+<br/>
+
 ## 📊 Repositórios: BOOTCAMPS da plataforma DIO
 
 | Descrição | Repositório |
