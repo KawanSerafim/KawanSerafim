@@ -143,7 +143,7 @@
 
 | Descrição | Repositório |
 | -------- | ----------- |
-| [🗂️] TG Manager System | [[TG-Manager-System](https://github.com/KawanSerafim/TG-Manager-System)] |
+| [🗂️] Sistema Gerenciador de TCC | [[Sistema_Gerenciador_TCC](https://github.com/KawanSerafim/Sistema_Gerenciador_TCC/)] |
 
 <br/>
 
