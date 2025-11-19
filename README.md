@@ -1,168 +1,88 @@
-<div>
-    <h1 align="center">🧑‍💻 Kawan Serafim - Desenvolvedor Back-End</h1>
+<div align="center">
+  <img width="100%" src="https://github.com/KawanSerafim/KawanSerafim/blob/main/banner.png" alt="Kawan Serafim Banner"/>
+  
+  <br />
+  
+  <h1>🧑‍💻 Kawan Serafim</h1>
+  <h3>Desenvolvedor de Software | Java, POO & Clean Architecture</h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/kawan-serafim/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:kawanserafimdesouza@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
 </div>
+
+---
+
+### 🚀 Sobre Mim
+
+Mais do que apenas escrever linhas de código, meu foco é construir soluções escaláveis e de fácil manutenção. Como estudante de **Análise e Desenvolvimento de Sistemas na FATEC-ZL**, entendo que uma aplicação robusta nasce de uma base sólida.
+
+Atualmente, minha stack principal é o ecossistema **Java**, com estudos aprofundados em **Clean Architecture** e **Design Patterns**.
+
+* 🔭 **Foco Atual:** Desenvolvimento Backend.
+* 🌱 **Estudando:** Padrões de Projeto, Arquitetura de Software e Python.
+* 🎯 **Objetivo:** Atuar como Engenheiro de Software focado em qualidade de código.
+
+---
+
+### 🛠️ Arsenal Técnico
+
+**Linguagens & Core:**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**Frameworks & Tools:**
+<br>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+**Ambiente & OS:**
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-    <img width="100%" alt="homegif" src="https://github.com/KawanSerafim/KawanSerafim/blob/main/banner.png"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KawanSerafim&show_icons=true&theme=radical&locale=pt-br&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanSerafim&theme=radical&locale=pt-br&layout=compact"/>
 </div>
 
 ---
 
-*Meu nome é Kawan Serafim de Souza, tenho 20 anos e sou estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de São Paulo (FATEC) – Zona Leste. Atualmente, tenho maior afinidade com o desenvolvimento back-end, com foco principal na linguagem Java. Estou em processo de expansão das minhas competências técnicas, com planos de aprofundar meus conhecimentos em C# e Python.*
-
-## Redes
-
-[![linkedin](https://img.icons8.com/color/60/linkedin.png)](https://www.linkedin.com/in/kawan-serafim/)
-[![gmail](https://img.icons8.com/color/60/gmail-new.png)](mailto:kawanserafimdesouza@gmail.com)
+> [!IMPORTANT]
+> **Nota sobre o Portfólio:**
+> Estou realizando uma **refatoração completa** nos meus projetos antigos para aplicar conceitos de **Clean Code** e **Arquitetura**. Por este motivo, alguns repositórios estão privados temporariamente. O objetivo é garantir que meu portfólio público reflita meu atual padrão de qualidade técnica.
 
 ---
 
-## 💻 Linguagens:
+### 🏆 Projetos em Destaque
 
-<table>
-    <tr>
-        <td align="center" width="100">
-            <img title="Java" src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="60"/>
-        </td>
-        <td align="center" width="100">
-            <img title="Csharp" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="java" width="60"/>
-        </td>
-        <td align="center" width="100">
-            <img title="MySQL" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="60"/>
-        </td>
-        <td align="center" width="100">
-            <img title="SQLServer" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="sqlserver" width="60"/>
-        </td>
-        <td align="center" width="100">
-            <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="60"/>
-        </td>
-        <td align="center" width="100">
-            <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="60"/>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <p>Java</p>
-        </td>
-        <td align="center">
-            <p>C#</p>
-        </td>
-        <td align="center">
-            <p>MySQL</p>
-        </td>
-        <td align="center">
-            <p>SQLServer</p>
-        </td>
-        <td align="center">
-            <p>HTML5</p>
-        </td>
-        <td align="center">
-            <p>CSS3</p>
-        </td>
-    </tr>
-</table>
+#### 🚧 Desafios de Empresas & Bootcamps
+| Projeto | Stack | Status |
+| :--- | :---: | :---: |
+| **[Chat Bot FURIA](https://github.com/KawanSerafim/Chat-Bot-FURIA)** <br> *Bot temático da equipe FURIA CS* | Python | 🚧 Refatorando |
 
-## 💻 Ferramentas:
+#### 🎓 Faculdade - FATEC Zona Leste
+| Projeto | Stack | Status |
+| :--- | :--- | :---: |
+| **[Gerenciador de TCC](https://github.com/KawanSerafim/Sistema_Gerenciador_TCC/)** <br> *Sistema Administrativo da FATEC ZL* | Java | 🚧 Desenvolvendo |
 
-<table>
-    <tr>
-        <td align="center" width="100">
-            <img title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="60"/>
-        </td>
-        <td align="center" width="100">
-            <img title="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="gradle" width="60"/>
-        </td>
-        <td align="center" width="100">
-            <img title="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="maven" width="60"/>
-        </td>
-        <td align="center" width="100">
-            <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="60"/>
-        </td>
-        <td align="center" width="100">
-            <img title="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="60"/>
-        </td>
-        <td align="center" width="100">
-            <img title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="60"/>
-        </td>
-        <td align="center" width="100">
-            <img title="Debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="debian" width="60"/>
-        </td>
-        <td align="center" width="100">
-            <img title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="windows" width="60"/>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <p>Spring</p>
-        </td>
-        <td align="center">
-            <p>Gradle</p>
-        </td>
-        <td align="center">
-            <p>Maven</p>
-        </td>
-        <td align="center">
-            <p>Git</p>
-        </td>
-        <td align="center">
-            <p>VSCode</p>
-        </td>
-        <td align="center">
-            <p>Linux</p>
-        </td>
-        <td align="center">
-            <p>Debian</p>
-        </td>
-        <td align="center">
-            <p>Windows</p>
-        </td>
-    </tr>
-</table>
-
-## 📊 Estatísticas
-
-[![Kawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KawanSerafim&show_icons=true&theme=radical&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawanSerafim&theme=radical&locale=pt-br&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-> [!NOTE]
-> Se você é um(a) recrutador(a), devo comunicar que sim, tenho outros repositórios. Acontece que os privei, desejando reorganizar meu github, também refazendo cada código. Levará um certo tempo para que isso esteja pronto.
-
-## 🚀 Repositórios: Desafios de Empresas (🚧 em processo de atualização! 🚧)
-
-<br/>
-
-| Descrição | Repositório |
-| -------- | ----------- |
-| [🤖] Chat Bot temático com a equipe FURIA CS | [[Chat-Bot-FURIA](https://github.com/KawanSerafim/Chat-Bot-FURIA)] |
-
-<br/>
-
-## 🎓 Repositório: Trabalho de Graduação
-
-| Descrição | Repositório |
-| -------- | ----------- |
-| [🗂️] Sistema Gerenciador de TCC | [[Sistema_Gerenciador_TCC](https://github.com/KawanSerafim/Sistema_Gerenciador_TCC/)] |
-
-<br/>
-
-## 📊 Repositórios: BOOTCAMPS da plataforma DIO
-
-| Descrição | Repositório |
-| -------- | ----------- |
-| [🟠] Avanade - Back-end com .NET e IA | [[BOOTCAMP-Avanade-BackEnd-dotNET-IA](https://github.com/KawanSerafim/BOOTCAMP-Avanade-BackEnd-dotNET-IA)] |
-
-<br/>
-
-## 📚 Repositórios: Faculdade FATEC ZL (🚧 em processo de atualização! 🚧)
-
-<br/>
-
-| Descrição | Repositório |
-| -------- | ----------- |
-| [💡] Lógica de Programação em Java | [[LP-Java](https://github.com/KawanSerafim/LP-Java)] |
-| [💻] Sistemas Operacionais Windows+Linux | [[Sistemas-Operacionais](https://github.com/KawanSerafim/Sistemas-Operacionais)] |
-| [📐] Estrutura de Dados em Java | [[Estrutura-Dados-Java](https://github.com/KawanSerafim/Estrutura-Dados-Java)] |
-| [🧰] Programação Orientada a Objetos em Java | [[POO-Java](https://github.com/KawanSerafim/POO-Java)] |
-| [🎲] Banco de Dados em SQL | [[Banco-Dados-SQL](https://github.com/KawanSerafim/Banco-Dados-SQL)] |
+<div align="center">
+  <sub><i>"Good code looks like it was written by someone who cares." — Michael Feathers</i></sub>
+</div>
