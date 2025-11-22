@@ -18,7 +18,7 @@
 
 ---
 
-> 🇧🇷 **Ler em Português:** [Clique aqui para ver a documentação em Português](https://github.com/KawanSerafim/KawanSerafim/main/README.pt-br.md)
+> 🇧🇷 **Ler em Português:** [Clique aqui para ver a documentação em Português](https://github.com/KawanSerafim/KawanSerafim/blob/main/README.pt-br.md)
 
 ### 🚀 About Me
 
