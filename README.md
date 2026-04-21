@@ -86,7 +86,7 @@ My main stack is the **Java** ecosystem, but I act as a polyglot developer build
 #### 🎓 College - FATEC Zona Leste
 | Project | Main Stack | Status |
 | :--- | :--- | :---: |
-| **[Gerenciador de TCC](https://github.com/KawanSerafim/Sistema_Gerenciador_TCC/)** <br> *Administrative System for FATEC ZL* | Java / Spring | 🚧 In Development |
+| **[Gerenciador de TG](https://github.com/KawanSerafim/Sistema_Gerenciador_TG/)** <br> *Administrative System for FATEC ZL* | Java / Spring | 🚧 In Development |
 
 <div align="center">
   <sub><i>"Good code looks like it was written by someone who cares." — Michael Feathers</i></sub>
